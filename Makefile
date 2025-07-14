@@ -159,3 +159,6 @@ release: lint package deb ## Créer une release complète
 # Variables par défaut
 VERSION ?= 1.0.0
 BACKUP ?=
+
+# Aide par défaut
+.DEFAULT_GOAL := help
