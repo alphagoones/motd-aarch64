@@ -15,7 +15,7 @@ Un système MOTD (Message of the Day) moderne et configurable spécialement con�
 
 ```bash
 # Télécharger et installer
-curl -fsSL https://raw.githubusercontent.com/alphagoones/motd-aarch64/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/alphagoones/motd-aarch64/main/scripts/install.sh | sudo bash
 
 # Ou cloner le dépôt
 git clone https://github.com/alphagoones/motd-aarch64.git
