@@ -2,6 +2,10 @@
 
 Un système MOTD (Message of the Day) moderne et configurable spécialement conçu pour les architectures ARM64/aarch64.
 
+![MOTD Preview](docs/images/aarch64.PNG)
+
+*Aperçu du MOTD-AARCH64 en action*
+
 ## Fonctionnalités
 
 - 🎨 **Interface moderne** avec bordures et couleurs personnalisables
